@@ -9,6 +9,7 @@ const Contact = () => {
                href="https://github.com/Sheikh-Yawar"
                className="logo"
                target="_blank"
+               rel="noreferrer"
             >
                <i class="fa-brands fa-github"></i>
             </a>
@@ -16,6 +17,7 @@ const Contact = () => {
                href="https://twitter.com/Sheikhyawar18"
                target="_blank"
                className="logo"
+               rel="noreferrer"
             >
                <i class="fa-brands fa-twitter"></i>
             </a>
@@ -23,6 +25,7 @@ const Contact = () => {
                href="https://www.instagram.com/thesheikh_yawar/"
                target="_blank"
                className="logo"
+               rel="noreferrer"
             >
                <i class="fa-brands fa-instagram"></i>
             </a>
@@ -30,6 +33,7 @@ const Contact = () => {
                href="https://www.linkedin.com/in/sheikh-yawar-56022a193/"
                target="_blank"
                className="logo"
+               rel="noreferrer"
             >
                <i class="fa-brands fa-linkedin"></i>
             </a>
